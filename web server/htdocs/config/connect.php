@@ -1,19 +1,19 @@
-<?php
+﻿<?php
 if(!defined('DBHOST'))
 {
-    define( 'DBHOST', 'sql12.freemysqlhosting.net' );
+    define( 'DBHOST', 'sql7.freemysqlhosting.net' );
 }
 if(!defined('DBUSER'))
 {
-    define( 'DBUSER', 'sql12722619' );
+    define( 'DBUSER', 'sql7726571' );
 }
 if(!defined('DBPASS'))
 {
-    define( 'DBPASS', 'WQ7LPFjd7d' );
+    define( 'DBPASS', 'k5hSV73f9a' );
 }
 if(!defined('DBNAME'))
 {
-    define( 'DBNAME', 'sql12722619' );
+    define( 'DBNAME', 'sql7726571' );
 }
 
 
